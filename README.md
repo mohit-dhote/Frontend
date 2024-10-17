@@ -30,9 +30,18 @@ Log in as a customer to browse car listings, book cars for specific dates, and v
 Utilize advanced search options to find the perfect rental vehicle.
 
 ## Screenshot 
-
 -------------
-![home1]([assets/Admin Dashboard.png](https://github.com/mohit-dhote/GoMoto-Rentals/blob/main/assets/Admin%20Dashboard.png))
+1. Customer Login
+![Screenshot]([assets/Admin Dashboard.png](https://github.com/mohit-dhote/GoMoto-Rentals/blob/main/assets/Admin%20Dashboard.png))
+
+
+3. Customer books a Car 
+![image](https://github.com/user-attachments/assets/5c237c79-3615-427b-bb26-6b4467fbe989)
+![image](https://github.com/user-attachments/assets/b2ceb537-9412-432b-b7a5-887bb776ee68)
+![image](https://github.com/user-attachments/assets/c51269e5-7032-45e5-935a-8d5c29323b31)
+
+4. Admin Login, Post car, Accept/Reject booking request.
+![image](https://github.com/user-attachments/assets/d0a35073-07b0-4bf8-ac2a-7cf8bfeea116)
 
 
 
