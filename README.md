@@ -1,5 +1,7 @@
 # GoMoto-Rentals-Frontend
+## GoMoto Rentals
 
+This project provides a backend system for a car rental service.
 Main Branch - Frontend
 Master Branch - Backend
 ## Features
@@ -31,19 +33,27 @@ Utilize advanced search options to find the perfect rental vehicle.
 
 ## Screenshot 
 -------------
-1. Customer Login
-![Screenshot]([assets/Admin Dashboard.png](https://github.com/mohit-dhote/GoMoto-Rentals/blob/main/assets/Admin%20Dashboard.png))
+#### 1. Landing page
+   
+![Landing Page](assets/landing%20page.png)
+
+#### 2. Register Page
+![Register Page](assets/register.png)
+
+#### 3. Admin Dashboard
+![Admin Dashboard](assets/Admin%20Dashboard.png)
+
+#### 4. Add Car
+![Add Car](assets/add_car.png)
+
+#### 5. Admin Bookings
+![Admin Booking](assets/admin-booking.png)
+
+#### 6. Search
+![Search Page](assets/search.png)
 
 
-3. Customer books a Car 
-![image](https://github.com/user-attachments/assets/5c237c79-3615-427b-bb26-6b4467fbe989)
-![image](https://github.com/user-attachments/assets/b2ceb537-9412-432b-b7a5-887bb776ee68)
-![image](https://github.com/user-attachments/assets/c51269e5-7032-45e5-935a-8d5c29323b31)
-
-4. Admin Login, Post car, Accept/Reject booking request.
-![image](https://github.com/user-attachments/assets/d0a35073-07b0-4bf8-ac2a-7cf8bfeea116)
-
-
+--------------------------------
 
 # Setup info
 
