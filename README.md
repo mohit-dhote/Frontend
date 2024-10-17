@@ -1,5 +1,7 @@
 # GoMoto-Rentals-Frontend
 
+Main Branch - Frontend
+Master Branch - Backend
 ## Features
 
 🚗 This project features two distinct user roles: Admin and Customer, each with unique functions and capabilities:
