@@ -32,7 +32,7 @@ Utilize advanced search options to find the perfect rental vehicle.
 ## Screenshot 
 
 -------------
-![home1](https://github.com/MohamedBoukthir/Car_Rental/assets/124532428/f4312a19-6f88-4553-b58b-9c146dab914d)
+![home1]([assets/Admin Dashboard.png](https://github.com/mohit-dhote/GoMoto-Rentals/blob/main/assets/Admin%20Dashboard.png))
 
 
 
