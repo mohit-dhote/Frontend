@@ -9,7 +9,7 @@ const BASE_URL = 'http://localhost:8080/api/v1/customer/';
   providedIn: 'root'
 })
 export class CustomerService {
-  
+
 
   constructor(
     private http: HttpClient
