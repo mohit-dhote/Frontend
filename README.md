@@ -1,8 +1,8 @@
 # GoMoto-Rentals-Frontend
 
-## This project provides a backend system for a car rental service.
+### This project provides a backend system for a car rental service.
 ### Main Branch - Frontend
-###Master Branch - Backend
+### Master Branch - Backend
 
 ## Features
 
